@@ -1,1 +1,3 @@
-# About-me-Website
+- Html focuses on the display of the headers and paragraph starters
+- Javascript will make the fact button work and add other visual features
+- CSS adds overall appearance and spice to the frontend
